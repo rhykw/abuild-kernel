@@ -1,2 +1,2 @@
 # abuild-kernel
-Build linux kernel easily.
+Build linux kernel packages easily.
